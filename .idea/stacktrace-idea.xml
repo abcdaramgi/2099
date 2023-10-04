@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="StacktraceSettings">
+    <option name="packages">
+      <set>
+        <option value="edu.monash.fit2099" />
+        <option value="game.ability" />
+        <option value="game.actions" />
+        <option value="game.actors" />
+        <option value="game.behaviour" />
+        <option value="game.items" />
+        <option value="game.main" />
+        <option value="game.positions" />
+      </set>
+    </option>
+  </component>
+</project>
